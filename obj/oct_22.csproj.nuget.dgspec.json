@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/kmt/Desktop/C#/pratice/oct_22/oct_22.csproj": {}
+    "/Users/kmt/Desktop/C#/pratice/my-first-cs/oct_22.csproj": {}
   },
   "projects": {
-    "/Users/kmt/Desktop/C#/pratice/oct_22/oct_22.csproj": {
+    "/Users/kmt/Desktop/C#/pratice/my-first-cs/oct_22.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/kmt/Desktop/C#/pratice/oct_22/oct_22.csproj",
+        "projectUniqueName": "/Users/kmt/Desktop/C#/pratice/my-first-cs/oct_22.csproj",
         "projectName": "oct_22",
-        "projectPath": "/Users/kmt/Desktop/C#/pratice/oct_22/oct_22.csproj",
+        "projectPath": "/Users/kmt/Desktop/C#/pratice/my-first-cs/oct_22.csproj",
         "packagesPath": "/Users/kmt/.nuget/packages/",
-        "outputPath": "/Users/kmt/Desktop/C#/pratice/oct_22/obj/",
+        "outputPath": "/Users/kmt/Desktop/C#/pratice/my-first-cs/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/kmt/.nuget/NuGet/NuGet.Config"

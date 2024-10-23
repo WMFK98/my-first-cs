@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = oct_22
-build_property.ProjectDir = /Users/kmt/Desktop/C#/pratice/oct_22/
+build_property.ProjectDir = /Users/kmt/Desktop/C#/pratice/my-first-cs/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
